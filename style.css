@@ -1,0 +1,61 @@
+.header{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDxUPDw8VFRUVFQ8VDw8PDxUVFRUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDw0NDysZFRkrKysrKy0tLTc3Ky03Ky0tLS0rLS0rLSs3KysrLSstLS0tKy0tNy0rKystLSsrLS0rLf/AABEIAOEA4QMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAAIDBgX/xAAXEAEBAQEAAAAAAAAAAAAAAAAAAQIR/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECAwQF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwD2CIffbSSERSRomCGA1GozG8s0ajpliRuMVXSOmXPLplzqumXTLnl0jFV0y3HPLplzo3CzGoyrRghZDEkgUEBQQJJA8mkY+q5jipAJIgiGhDG8xiN5Zqtyt5YjeWKrpl0jnl0jnVdI6Zc8t5YqumW8sZbjnRuNMxqMq1EIWaEhIEhAkEB6ggeUPQn1XNJIEUgMMBiIW4zGozVbjeWI3lmq6R0jnl0y51XTMdMucbyxR0y3GMtxzqtxqMRqMq1CIWaFAoJLqBJdChQ6QeVR4uPqOQS4gRkUh6guqKGCmNxlqM0ajpGI3GarpluMRuOdVvLpljLeWKOmW455bjFVuNRmNRhS0yUCkkEkkEklEQgeXRD6bliSQYkjIKmhDEGo1GY3mJQ5bjGXSMVW43liNxiq3l0y55dMsUby3GI3GKrUajMaZUkFEJZKKUEmBQS4IhA8zw8Mir6LmzxcKUSRQRihiDUhHSg1G4zG4zVajcZjWWKreW8sRvLFHSNRiNxiq1GmY1GRqIFFKBESSBJIElxA87QeLj6DARQDhRBFGRBRqBrKKY3GY3GKNRqCNRmq1G4xG4xRuNRhuM1WmoxGpWaNFkorSBQSSBJIEkgeeTSe9zHFxNcAZiRkQDQIqjcEhiDUbyzGoxRqGAxFbjUZjTI3GssRqMVW4YzGkCYz1pkJZIpXQgPV0ID1BA+EjxPa5hcKFSRBQxFAwxcKBjQhjI01GWmVajTOWko1GmI0wrUaZhQaLJQaQSBXQQKCFPUED4vAbU9rAK4gR4uFBRqCFAmBpBRqAxAxqCGMq1DGY1EGo0zDGarRjLUQaUBQKSQKCAkJAoIHxijx7GAZEhUUYgoQUCUogY0I0iqGCGIGNQQxAtRkxKNEdTKtQsmINIECh1IFJAkkD5KKetkNRJBcSKCMUIIpRBqIFFJgMQMIjSBMCQahBRSgUCRCgUEBQPQRCB8tIvSyklEEUYChih4giDBSolECQZEDGhEgYRCgYYClCYEikhA0gUEkgSSB81JPQyikCjQhAoFBFRIpMBgIypRAwiFAwggmmTEGogWVKCAkIGkOpAodQPnUpPQyqkgJiSCJQKKJIpMCBpRJAwpIEpCqFJEMKSBiSRUakCSQJJCP/9k=);
+    size: 20%;
+    padding: 40px;
+    text-align: center;
+    background: #d8c8ec;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+body {
+    background-color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(36, 23, 48);
+    text-align: justify;
+    background-color: #dfe7f7;
+    
+}
+ h2{
+    align-items:normal;
+    color: rgb(32, 30, 53);
+    border:2px solid rgb(147, 182, 199);
+    background-color: #c8d6ec;
+    padding:  5px 5px 5px;
+   text-shadow: 3px 3px 1px rgb(145, 176, 245);
+ }
+ img{
+    display: flex;
+    margin: 0 auto;
+    opacity: .8;
+    width: 250px;
+    height: 240px;
+    display: inline;
+    
+ }
+ .hastag{
+    color: rgb(77, 53, 121);
+    font-style: oblique;
+ }
+ h3{
+    color: rgb(139, 102, 158);
+ }
+
+.footer{
+    background-color: rgb(186, 167, 204);
+    width: 100%;
+    height: 60px;
+    margin-top: 3%;
+
+}
+.footer .a{
+    padding: 5px 5px 5px;
+}
+.column {
+    float: left;
+    width: 60%;
+  }
+  
+  /* Clear floats after the columns */
+
